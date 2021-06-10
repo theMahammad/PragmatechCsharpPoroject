@@ -1,0 +1,16 @@
+C:\Users\hssjx\source\repos\My Self Study\Variables_and_convertion\Variables_and_convertion\bin\Debug\net5.0\Variables_and_convertion.exe
+C:\Users\hssjx\source\repos\My Self Study\Variables_and_convertion\Variables_and_convertion\bin\Debug\net5.0\Variables_and_convertion.deps.json
+C:\Users\hssjx\source\repos\My Self Study\Variables_and_convertion\Variables_and_convertion\bin\Debug\net5.0\Variables_and_convertion.runtimeconfig.json
+C:\Users\hssjx\source\repos\My Self Study\Variables_and_convertion\Variables_and_convertion\bin\Debug\net5.0\Variables_and_convertion.runtimeconfig.dev.json
+C:\Users\hssjx\source\repos\My Self Study\Variables_and_convertion\Variables_and_convertion\bin\Debug\net5.0\Variables_and_convertion.dll
+C:\Users\hssjx\source\repos\My Self Study\Variables_and_convertion\Variables_and_convertion\bin\Debug\net5.0\ref\Variables_and_convertion.dll
+C:\Users\hssjx\source\repos\My Self Study\Variables_and_convertion\Variables_and_convertion\bin\Debug\net5.0\Variables_and_convertion.pdb
+C:\Users\hssjx\source\repos\My Self Study\Variables_and_convertion\Variables_and_convertion\obj\Debug\net5.0\Variables_and_convertion.csproj.AssemblyReference.cache
+C:\Users\hssjx\source\repos\My Self Study\Variables_and_convertion\Variables_and_convertion\obj\Debug\net5.0\Variables_and_convertion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hssjx\source\repos\My Self Study\Variables_and_convertion\Variables_and_convertion\obj\Debug\net5.0\Variables_and_convertion.AssemblyInfoInputs.cache
+C:\Users\hssjx\source\repos\My Self Study\Variables_and_convertion\Variables_and_convertion\obj\Debug\net5.0\Variables_and_convertion.AssemblyInfo.cs
+C:\Users\hssjx\source\repos\My Self Study\Variables_and_convertion\Variables_and_convertion\obj\Debug\net5.0\Variables_and_convertion.csproj.CoreCompileInputs.cache
+C:\Users\hssjx\source\repos\My Self Study\Variables_and_convertion\Variables_and_convertion\obj\Debug\net5.0\Variables_and_convertion.dll
+C:\Users\hssjx\source\repos\My Self Study\Variables_and_convertion\Variables_and_convertion\obj\Debug\net5.0\ref\Variables_and_convertion.dll
+C:\Users\hssjx\source\repos\My Self Study\Variables_and_convertion\Variables_and_convertion\obj\Debug\net5.0\Variables_and_convertion.pdb
+C:\Users\hssjx\source\repos\My Self Study\Variables_and_convertion\Variables_and_convertion\obj\Debug\net5.0\Variables_and_convertion.genruntimeconfig.cache

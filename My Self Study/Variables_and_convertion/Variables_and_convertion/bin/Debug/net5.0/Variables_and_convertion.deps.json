@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Variables_and_convertion/1.0.0": {
+        "runtime": {
+          "Variables_and_convertion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Variables_and_convertion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
