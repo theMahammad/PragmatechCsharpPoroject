@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hssjx\\source\\repos\\My Self Study\\Variables_and_convertion\\Variables_and_convertion\\Methods.csproj",
-      "projectName": "Methods",
-      "projectPath": "C:\\Users\\hssjx\\source\\repos\\My Self Study\\Variables_and_convertion\\Variables_and_convertion\\Methods.csproj",
+      "projectUniqueName": "C:\\Users\\hssjx\\source\\repos\\My Self Study\\conditions\\conditions\\conditions.csproj",
+      "projectName": "conditions",
+      "projectPath": "C:\\Users\\hssjx\\source\\repos\\My Self Study\\conditions\\conditions\\conditions.csproj",
       "packagesPath": "C:\\Users\\hssjx\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hssjx\\source\\repos\\My Self Study\\Variables_and_convertion\\Variables_and_convertion\\obj\\",
+      "outputPath": "C:\\Users\\hssjx\\source\\repos\\My Self Study\\conditions\\conditions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

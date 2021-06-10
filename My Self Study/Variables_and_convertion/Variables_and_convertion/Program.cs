@@ -86,7 +86,7 @@ namespace Variables_and_convertion
                 Console.WriteLine(cem2);
             int cem3 = toplama(5, 7, 9, 15,25);//61
             Console.WriteLine(cem3);
-            int cem4 = cem_ve_hasil(5,9,4).Item2;
+            int cem4 = cem_ve_hasil(5,9,4).Item1; //18
             Console.WriteLine(cem4);
         }
     }

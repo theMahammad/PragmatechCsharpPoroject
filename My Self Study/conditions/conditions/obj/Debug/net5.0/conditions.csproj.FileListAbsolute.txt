@@ -1,0 +1,16 @@
+C:\Users\hssjx\source\repos\My Self Study\conditions\conditions\bin\Debug\net5.0\conditions.exe
+C:\Users\hssjx\source\repos\My Self Study\conditions\conditions\bin\Debug\net5.0\conditions.deps.json
+C:\Users\hssjx\source\repos\My Self Study\conditions\conditions\bin\Debug\net5.0\conditions.runtimeconfig.json
+C:\Users\hssjx\source\repos\My Self Study\conditions\conditions\bin\Debug\net5.0\conditions.runtimeconfig.dev.json
+C:\Users\hssjx\source\repos\My Self Study\conditions\conditions\bin\Debug\net5.0\conditions.dll
+C:\Users\hssjx\source\repos\My Self Study\conditions\conditions\bin\Debug\net5.0\ref\conditions.dll
+C:\Users\hssjx\source\repos\My Self Study\conditions\conditions\bin\Debug\net5.0\conditions.pdb
+C:\Users\hssjx\source\repos\My Self Study\conditions\conditions\obj\Debug\net5.0\conditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hssjx\source\repos\My Self Study\conditions\conditions\obj\Debug\net5.0\conditions.AssemblyInfoInputs.cache
+C:\Users\hssjx\source\repos\My Self Study\conditions\conditions\obj\Debug\net5.0\conditions.AssemblyInfo.cs
+C:\Users\hssjx\source\repos\My Self Study\conditions\conditions\obj\Debug\net5.0\conditions.csproj.CoreCompileInputs.cache
+C:\Users\hssjx\source\repos\My Self Study\conditions\conditions\obj\Debug\net5.0\conditions.dll
+C:\Users\hssjx\source\repos\My Self Study\conditions\conditions\obj\Debug\net5.0\ref\conditions.dll
+C:\Users\hssjx\source\repos\My Self Study\conditions\conditions\obj\Debug\net5.0\conditions.pdb
+C:\Users\hssjx\source\repos\My Self Study\conditions\conditions\obj\Debug\net5.0\conditions.genruntimeconfig.cache
+C:\Users\hssjx\source\repos\My Self Study\conditions\conditions\obj\Debug\net5.0\conditions.csproj.AssemblyReference.cache
