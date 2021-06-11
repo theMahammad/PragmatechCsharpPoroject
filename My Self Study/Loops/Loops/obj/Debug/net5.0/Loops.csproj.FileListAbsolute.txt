@@ -1,0 +1,16 @@
+C:\Users\hssjx\source\repos\My Self Study\Loops\Loops\bin\Debug\net5.0\Loops.exe
+C:\Users\hssjx\source\repos\My Self Study\Loops\Loops\bin\Debug\net5.0\Loops.deps.json
+C:\Users\hssjx\source\repos\My Self Study\Loops\Loops\bin\Debug\net5.0\Loops.runtimeconfig.json
+C:\Users\hssjx\source\repos\My Self Study\Loops\Loops\bin\Debug\net5.0\Loops.runtimeconfig.dev.json
+C:\Users\hssjx\source\repos\My Self Study\Loops\Loops\bin\Debug\net5.0\Loops.dll
+C:\Users\hssjx\source\repos\My Self Study\Loops\Loops\bin\Debug\net5.0\ref\Loops.dll
+C:\Users\hssjx\source\repos\My Self Study\Loops\Loops\bin\Debug\net5.0\Loops.pdb
+C:\Users\hssjx\source\repos\My Self Study\Loops\Loops\obj\Debug\net5.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hssjx\source\repos\My Self Study\Loops\Loops\obj\Debug\net5.0\Loops.AssemblyInfoInputs.cache
+C:\Users\hssjx\source\repos\My Self Study\Loops\Loops\obj\Debug\net5.0\Loops.AssemblyInfo.cs
+C:\Users\hssjx\source\repos\My Self Study\Loops\Loops\obj\Debug\net5.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\hssjx\source\repos\My Self Study\Loops\Loops\obj\Debug\net5.0\Loops.dll
+C:\Users\hssjx\source\repos\My Self Study\Loops\Loops\obj\Debug\net5.0\ref\Loops.dll
+C:\Users\hssjx\source\repos\My Self Study\Loops\Loops\obj\Debug\net5.0\Loops.pdb
+C:\Users\hssjx\source\repos\My Self Study\Loops\Loops\obj\Debug\net5.0\Loops.genruntimeconfig.cache
+C:\Users\hssjx\source\repos\My Self Study\Loops\Loops\obj\Debug\net5.0\Loops.csproj.AssemblyReference.cache
