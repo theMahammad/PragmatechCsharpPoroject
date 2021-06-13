@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Arrays</id>
+    <version>1.0.0</version>
+    <authors>Arrays</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\hssjx\source\repos\My Self Study\Arrays\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json" target="lib\net5.0\Arrays.runtimeconfig.json" />
+    <file src="C:\Users\hssjx\source\repos\My Self Study\Arrays\Arrays\bin\Debug\net5.0\Arrays.dll" target="lib\net5.0\Arrays.dll" />
+  </files>
+</package>
