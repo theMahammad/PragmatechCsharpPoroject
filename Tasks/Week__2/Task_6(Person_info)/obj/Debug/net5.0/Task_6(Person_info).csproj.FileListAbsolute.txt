@@ -1,0 +1,16 @@
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_6(Person_info)\bin\Debug\net5.0\Task_6(Person_info).exe
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_6(Person_info)\bin\Debug\net5.0\Task_6(Person_info).deps.json
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_6(Person_info)\bin\Debug\net5.0\Task_6(Person_info).runtimeconfig.json
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_6(Person_info)\bin\Debug\net5.0\Task_6(Person_info).runtimeconfig.dev.json
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_6(Person_info)\bin\Debug\net5.0\Task_6(Person_info).dll
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_6(Person_info)\bin\Debug\net5.0\ref\Task_6(Person_info).dll
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_6(Person_info)\bin\Debug\net5.0\Task_6(Person_info).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_6(Person_info)\obj\Debug\net5.0\Task_6(Person_info).csproj.AssemblyReference.cache
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_6(Person_info)\obj\Debug\net5.0\Task_6(Person_info).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_6(Person_info)\obj\Debug\net5.0\Task_6(Person_info).AssemblyInfoInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_6(Person_info)\obj\Debug\net5.0\Task_6(Person_info).AssemblyInfo.cs
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_6(Person_info)\obj\Debug\net5.0\Task_6(Person_info).csproj.CoreCompileInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_6(Person_info)\obj\Debug\net5.0\Task_6(Person_info).dll
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_6(Person_info)\obj\Debug\net5.0\ref\Task_6(Person_info).dll
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_6(Person_info)\obj\Debug\net5.0\Task_6(Person_info).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_6(Person_info)\obj\Debug\net5.0\Task_6(Person_info).genruntimeconfig.cache

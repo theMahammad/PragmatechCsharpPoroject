@@ -1,0 +1,15 @@
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_5(Graduation)\bin\Debug\net5.0\Task_5(Graduation).exe
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_5(Graduation)\bin\Debug\net5.0\Task_5(Graduation).deps.json
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_5(Graduation)\bin\Debug\net5.0\Task_5(Graduation).runtimeconfig.json
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_5(Graduation)\bin\Debug\net5.0\Task_5(Graduation).runtimeconfig.dev.json
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_5(Graduation)\bin\Debug\net5.0\Task_5(Graduation).dll
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_5(Graduation)\bin\Debug\net5.0\ref\Task_5(Graduation).dll
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_5(Graduation)\bin\Debug\net5.0\Task_5(Graduation).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_5(Graduation)\obj\Debug\net5.0\Task_5(Graduation).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_5(Graduation)\obj\Debug\net5.0\Task_5(Graduation).AssemblyInfoInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_5(Graduation)\obj\Debug\net5.0\Task_5(Graduation).AssemblyInfo.cs
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_5(Graduation)\obj\Debug\net5.0\Task_5(Graduation).csproj.CoreCompileInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_5(Graduation)\obj\Debug\net5.0\Task_5(Graduation).dll
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_5(Graduation)\obj\Debug\net5.0\ref\Task_5(Graduation).dll
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_5(Graduation)\obj\Debug\net5.0\Task_5(Graduation).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_5(Graduation)\obj\Debug\net5.0\Task_5(Graduation).genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_3(isEven_or_isOdd)\bin\Debug\net5.0\Task_3(isEven_or_isOdd).exe
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_3(isEven_or_isOdd)\bin\Debug\net5.0\Task_3(isEven_or_isOdd).deps.json
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_3(isEven_or_isOdd)\bin\Debug\net5.0\Task_3(isEven_or_isOdd).runtimeconfig.json
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_3(isEven_or_isOdd)\bin\Debug\net5.0\Task_3(isEven_or_isOdd).runtimeconfig.dev.json
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_3(isEven_or_isOdd)\bin\Debug\net5.0\Task_3(isEven_or_isOdd).dll
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_3(isEven_or_isOdd)\bin\Debug\net5.0\ref\Task_3(isEven_or_isOdd).dll
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_3(isEven_or_isOdd)\bin\Debug\net5.0\Task_3(isEven_or_isOdd).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_3(isEven_or_isOdd)\obj\Debug\net5.0\Task_3(isEven_or_isOdd).csproj.AssemblyReference.cache
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_3(isEven_or_isOdd)\obj\Debug\net5.0\Task_3(isEven_or_isOdd).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_3(isEven_or_isOdd)\obj\Debug\net5.0\Task_3(isEven_or_isOdd).AssemblyInfoInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_3(isEven_or_isOdd)\obj\Debug\net5.0\Task_3(isEven_or_isOdd).AssemblyInfo.cs
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_3(isEven_or_isOdd)\obj\Debug\net5.0\Task_3(isEven_or_isOdd).csproj.CoreCompileInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_3(isEven_or_isOdd)\obj\Debug\net5.0\Task_3(isEven_or_isOdd).dll
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_3(isEven_or_isOdd)\obj\Debug\net5.0\ref\Task_3(isEven_or_isOdd).dll
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_3(isEven_or_isOdd)\obj\Debug\net5.0\Task_3(isEven_or_isOdd).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_3(isEven_or_isOdd)\obj\Debug\net5.0\Task_3(isEven_or_isOdd).genruntimeconfig.cache

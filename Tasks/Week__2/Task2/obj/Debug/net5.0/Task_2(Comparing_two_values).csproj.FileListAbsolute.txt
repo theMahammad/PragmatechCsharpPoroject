@@ -1,0 +1,16 @@
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task2\bin\Debug\net5.0\Task_2(Comparing_two_values).exe
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task2\bin\Debug\net5.0\Task_2(Comparing_two_values).deps.json
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task2\bin\Debug\net5.0\Task_2(Comparing_two_values).runtimeconfig.json
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task2\bin\Debug\net5.0\Task_2(Comparing_two_values).runtimeconfig.dev.json
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task2\bin\Debug\net5.0\Task_2(Comparing_two_values).dll
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task2\bin\Debug\net5.0\ref\Task_2(Comparing_two_values).dll
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task2\bin\Debug\net5.0\Task_2(Comparing_two_values).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task2\obj\Debug\net5.0\Task_2(Comparing_two_values).csproj.AssemblyReference.cache
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task2\obj\Debug\net5.0\Task_2(Comparing_two_values).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task2\obj\Debug\net5.0\Task_2(Comparing_two_values).AssemblyInfoInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task2\obj\Debug\net5.0\Task_2(Comparing_two_values).AssemblyInfo.cs
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task2\obj\Debug\net5.0\Task_2(Comparing_two_values).csproj.CoreCompileInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task2\obj\Debug\net5.0\Task_2(Comparing_two_values).dll
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task2\obj\Debug\net5.0\ref\Task_2(Comparing_two_values).dll
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task2\obj\Debug\net5.0\Task_2(Comparing_two_values).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task2\obj\Debug\net5.0\Task_2(Comparing_two_values).genruntimeconfig.cache

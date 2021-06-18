@@ -1,0 +1,15 @@
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_4(is_positive_or_negative)\bin\Debug\net5.0\Task_4(is_positive_or_negative).exe
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_4(is_positive_or_negative)\bin\Debug\net5.0\Task_4(is_positive_or_negative).deps.json
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_4(is_positive_or_negative)\bin\Debug\net5.0\Task_4(is_positive_or_negative).runtimeconfig.json
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_4(is_positive_or_negative)\bin\Debug\net5.0\Task_4(is_positive_or_negative).runtimeconfig.dev.json
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_4(is_positive_or_negative)\bin\Debug\net5.0\Task_4(is_positive_or_negative).dll
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_4(is_positive_or_negative)\bin\Debug\net5.0\ref\Task_4(is_positive_or_negative).dll
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_4(is_positive_or_negative)\bin\Debug\net5.0\Task_4(is_positive_or_negative).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_4(is_positive_or_negative)\obj\Debug\net5.0\Task_4(is_positive_or_negative).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_4(is_positive_or_negative)\obj\Debug\net5.0\Task_4(is_positive_or_negative).AssemblyInfoInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_4(is_positive_or_negative)\obj\Debug\net5.0\Task_4(is_positive_or_negative).AssemblyInfo.cs
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_4(is_positive_or_negative)\obj\Debug\net5.0\Task_4(is_positive_or_negative).csproj.CoreCompileInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_4(is_positive_or_negative)\obj\Debug\net5.0\Task_4(is_positive_or_negative).dll
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_4(is_positive_or_negative)\obj\Debug\net5.0\ref\Task_4(is_positive_or_negative).dll
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_4(is_positive_or_negative)\obj\Debug\net5.0\Task_4(is_positive_or_negative).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__2\Task_4(is_positive_or_negative)\obj\Debug\net5.0\Task_4(is_positive_or_negative).genruntimeconfig.cache
