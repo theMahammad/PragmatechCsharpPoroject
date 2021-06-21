@@ -56,13 +56,16 @@ namespace Arrays
                 Console.WriteLine(element);
             }
             //**Massivə yeni element əlavə etmək olmur(ayrılan yerləri doldurmaq olur,amma ayrılan yerdən artıq yazmaq olmur)
-            int[] massiv = new int[5]; //Əgər başda elementlər təyin olunmursa,ayrılan yer qədər 0 doldurulur massivə
+            int[] massiv = new int[5]; //Əgər başda elementlər təyin olunmursa,ayrılan yer qədər 0 doldurulur massivə(yəni tipin defolt dəyəri)
             foreach(int element in massiv)
             {
                 Console.WriteLine(element);
             }
-            
-            
+
+
+           
+
+
         }
     }
 }
