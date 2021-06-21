@@ -28,7 +28,7 @@ namespace Task_6_Person_info_
             string surname = Console.ReadLine();
             if(person.name == name && person.surname == surname)
             {
-                if (person.age <= 18)
+                if (person.age < 18)
                 {
                     Console.WriteLine("Sizin yaşınız uyğun deyil");
                 }

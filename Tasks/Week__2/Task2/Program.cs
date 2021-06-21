@@ -23,7 +23,7 @@ namespace Task2
             else
             {
                 Console.WriteLine("Bu iki eded beraberdir");
-                //if the two numbers are equal,then above text is printed and program is finished,because the codes under after the "return" keyword don't
+                //if the two numbers are equal,then above text is printed and program is finished,because the codes  after the "return" keyword don't work
                 return;
             }
             Console.WriteLine($"Böyük eded : {bigger_number}");
