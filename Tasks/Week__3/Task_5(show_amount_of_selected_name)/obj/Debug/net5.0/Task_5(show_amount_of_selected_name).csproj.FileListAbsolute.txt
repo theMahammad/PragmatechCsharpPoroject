@@ -1,0 +1,15 @@
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_5(show_amount_of_selected_name)\bin\Debug\net5.0\Task_5(show_amount_of_selected_name).exe
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_5(show_amount_of_selected_name)\bin\Debug\net5.0\Task_5(show_amount_of_selected_name).deps.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_5(show_amount_of_selected_name)\bin\Debug\net5.0\Task_5(show_amount_of_selected_name).runtimeconfig.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_5(show_amount_of_selected_name)\bin\Debug\net5.0\Task_5(show_amount_of_selected_name).runtimeconfig.dev.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_5(show_amount_of_selected_name)\bin\Debug\net5.0\Task_5(show_amount_of_selected_name).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_5(show_amount_of_selected_name)\bin\Debug\net5.0\ref\Task_5(show_amount_of_selected_name).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_5(show_amount_of_selected_name)\bin\Debug\net5.0\Task_5(show_amount_of_selected_name).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_5(show_amount_of_selected_name)\obj\Debug\net5.0\Task_5(show_amount_of_selected_name).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_5(show_amount_of_selected_name)\obj\Debug\net5.0\Task_5(show_amount_of_selected_name).AssemblyInfoInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_5(show_amount_of_selected_name)\obj\Debug\net5.0\Task_5(show_amount_of_selected_name).AssemblyInfo.cs
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_5(show_amount_of_selected_name)\obj\Debug\net5.0\Task_5(show_amount_of_selected_name).csproj.CoreCompileInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_5(show_amount_of_selected_name)\obj\Debug\net5.0\Task_5(show_amount_of_selected_name).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_5(show_amount_of_selected_name)\obj\Debug\net5.0\ref\Task_5(show_amount_of_selected_name).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_5(show_amount_of_selected_name)\obj\Debug\net5.0\Task_5(show_amount_of_selected_name).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_5(show_amount_of_selected_name)\obj\Debug\net5.0\Task_5(show_amount_of_selected_name).genruntimeconfig.cache
