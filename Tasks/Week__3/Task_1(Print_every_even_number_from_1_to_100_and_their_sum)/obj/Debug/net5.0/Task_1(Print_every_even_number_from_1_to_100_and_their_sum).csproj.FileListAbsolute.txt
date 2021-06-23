@@ -1,0 +1,16 @@
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_1(Print_every_even_number_from_1_to_100_and_their_sum)\bin\Debug\net5.0\Task_1(Print_every_even_number_from_1_to_100_and_their_sum).exe
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_1(Print_every_even_number_from_1_to_100_and_their_sum)\bin\Debug\net5.0\Task_1(Print_every_even_number_from_1_to_100_and_their_sum).deps.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_1(Print_every_even_number_from_1_to_100_and_their_sum)\bin\Debug\net5.0\Task_1(Print_every_even_number_from_1_to_100_and_their_sum).runtimeconfig.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_1(Print_every_even_number_from_1_to_100_and_their_sum)\bin\Debug\net5.0\Task_1(Print_every_even_number_from_1_to_100_and_their_sum).runtimeconfig.dev.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_1(Print_every_even_number_from_1_to_100_and_their_sum)\bin\Debug\net5.0\Task_1(Print_every_even_number_from_1_to_100_and_their_sum).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_1(Print_every_even_number_from_1_to_100_and_their_sum)\bin\Debug\net5.0\ref\Task_1(Print_every_even_number_from_1_to_100_and_their_sum).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_1(Print_every_even_number_from_1_to_100_and_their_sum)\bin\Debug\net5.0\Task_1(Print_every_even_number_from_1_to_100_and_their_sum).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_1(Print_every_even_number_from_1_to_100_and_their_sum)\obj\Debug\net5.0\Task_1(Print_every_even_number_from_1_to_100_and_their_sum).csproj.AssemblyReference.cache
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_1(Print_every_even_number_from_1_to_100_and_their_sum)\obj\Debug\net5.0\Task_1(Print_every_even_number_from_1_to_100_and_their_sum).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_1(Print_every_even_number_from_1_to_100_and_their_sum)\obj\Debug\net5.0\Task_1(Print_every_even_number_from_1_to_100_and_their_sum).AssemblyInfoInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_1(Print_every_even_number_from_1_to_100_and_their_sum)\obj\Debug\net5.0\Task_1(Print_every_even_number_from_1_to_100_and_their_sum).AssemblyInfo.cs
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_1(Print_every_even_number_from_1_to_100_and_their_sum)\obj\Debug\net5.0\Task_1(Print_every_even_number_from_1_to_100_and_their_sum).csproj.CoreCompileInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_1(Print_every_even_number_from_1_to_100_and_their_sum)\obj\Debug\net5.0\Task_1(Print_every_even_number_from_1_to_100_and_their_sum).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_1(Print_every_even_number_from_1_to_100_and_their_sum)\obj\Debug\net5.0\ref\Task_1(Print_every_even_number_from_1_to_100_and_their_sum).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_1(Print_every_even_number_from_1_to_100_and_their_sum)\obj\Debug\net5.0\Task_1(Print_every_even_number_from_1_to_100_and_their_sum).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_1(Print_every_even_number_from_1_to_100_and_their_sum)\obj\Debug\net5.0\Task_1(Print_every_even_number_from_1_to_100_and_their_sum).genruntimeconfig.cache

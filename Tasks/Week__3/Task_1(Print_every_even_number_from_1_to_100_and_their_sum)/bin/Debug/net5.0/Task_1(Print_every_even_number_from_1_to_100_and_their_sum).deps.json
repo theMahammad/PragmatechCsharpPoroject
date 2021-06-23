@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Task_1(Print_every_even_number_from_1_to_100_and_their_sum)/1.0.0": {
+        "runtime": {
+          "Task_1(Print_every_even_number_from_1_to_100_and_their_sum).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task_1(Print_every_even_number_from_1_to_100_and_their_sum)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
