@@ -1,0 +1,16 @@
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_2(print_sum_of_previous_number_using_do_while)\bin\Debug\net5.0\Task_2(print_sum_of_previous_number_using_do_while).exe
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_2(print_sum_of_previous_number_using_do_while)\bin\Debug\net5.0\Task_2(print_sum_of_previous_number_using_do_while).deps.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_2(print_sum_of_previous_number_using_do_while)\bin\Debug\net5.0\Task_2(print_sum_of_previous_number_using_do_while).runtimeconfig.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_2(print_sum_of_previous_number_using_do_while)\bin\Debug\net5.0\Task_2(print_sum_of_previous_number_using_do_while).runtimeconfig.dev.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_2(print_sum_of_previous_number_using_do_while)\bin\Debug\net5.0\Task_2(print_sum_of_previous_number_using_do_while).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_2(print_sum_of_previous_number_using_do_while)\bin\Debug\net5.0\ref\Task_2(print_sum_of_previous_number_using_do_while).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_2(print_sum_of_previous_number_using_do_while)\bin\Debug\net5.0\Task_2(print_sum_of_previous_number_using_do_while).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_2(print_sum_of_previous_number_using_do_while)\obj\Debug\net5.0\Task_2(print_sum_of_previous_number_using_do_while).csproj.AssemblyReference.cache
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_2(print_sum_of_previous_number_using_do_while)\obj\Debug\net5.0\Task_2(print_sum_of_previous_number_using_do_while).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_2(print_sum_of_previous_number_using_do_while)\obj\Debug\net5.0\Task_2(print_sum_of_previous_number_using_do_while).AssemblyInfoInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_2(print_sum_of_previous_number_using_do_while)\obj\Debug\net5.0\Task_2(print_sum_of_previous_number_using_do_while).AssemblyInfo.cs
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_2(print_sum_of_previous_number_using_do_while)\obj\Debug\net5.0\Task_2(print_sum_of_previous_number_using_do_while).csproj.CoreCompileInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_2(print_sum_of_previous_number_using_do_while)\obj\Debug\net5.0\Task_2(print_sum_of_previous_number_using_do_while).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_2(print_sum_of_previous_number_using_do_while)\obj\Debug\net5.0\ref\Task_2(print_sum_of_previous_number_using_do_while).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_2(print_sum_of_previous_number_using_do_while)\obj\Debug\net5.0\Task_2(print_sum_of_previous_number_using_do_while).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_2(print_sum_of_previous_number_using_do_while)\obj\Debug\net5.0\Task_2(print_sum_of_previous_number_using_do_while).genruntimeconfig.cache
