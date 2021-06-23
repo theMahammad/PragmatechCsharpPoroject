@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_2(print_sum_of_previou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_3(is_equal_with_random_number)", "Task_3\Task_3(is_equal_with_random_number).csproj", "{4B5F05A3-D9A0-4091-971D-BA258681E680}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_4(find_factorial)", "Task_4(find_factorial)\Task_4(find_factorial).csproj", "{F522F1C3-3977-47FA-95EF-D3AE3F127875}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{4B5F05A3-D9A0-4091-971D-BA258681E680}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B5F05A3-D9A0-4091-971D-BA258681E680}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B5F05A3-D9A0-4091-971D-BA258681E680}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F522F1C3-3977-47FA-95EF-D3AE3F127875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F522F1C3-3977-47FA-95EF-D3AE3F127875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F522F1C3-3977-47FA-95EF-D3AE3F127875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F522F1C3-3977-47FA-95EF-D3AE3F127875}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

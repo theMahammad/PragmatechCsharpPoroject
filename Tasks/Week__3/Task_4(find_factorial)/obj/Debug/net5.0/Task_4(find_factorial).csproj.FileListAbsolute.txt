@@ -1,0 +1,16 @@
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_4(find_factorial)\bin\Debug\net5.0\Task_4(find_factorial).exe
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_4(find_factorial)\bin\Debug\net5.0\Task_4(find_factorial).deps.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_4(find_factorial)\bin\Debug\net5.0\Task_4(find_factorial).runtimeconfig.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_4(find_factorial)\bin\Debug\net5.0\Task_4(find_factorial).runtimeconfig.dev.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_4(find_factorial)\bin\Debug\net5.0\Task_4(find_factorial).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_4(find_factorial)\bin\Debug\net5.0\ref\Task_4(find_factorial).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_4(find_factorial)\bin\Debug\net5.0\Task_4(find_factorial).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_4(find_factorial)\obj\Debug\net5.0\Task_4(find_factorial).csproj.AssemblyReference.cache
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_4(find_factorial)\obj\Debug\net5.0\Task_4(find_factorial).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_4(find_factorial)\obj\Debug\net5.0\Task_4(find_factorial).AssemblyInfoInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_4(find_factorial)\obj\Debug\net5.0\Task_4(find_factorial).AssemblyInfo.cs
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_4(find_factorial)\obj\Debug\net5.0\Task_4(find_factorial).csproj.CoreCompileInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_4(find_factorial)\obj\Debug\net5.0\Task_4(find_factorial).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_4(find_factorial)\obj\Debug\net5.0\ref\Task_4(find_factorial).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_4(find_factorial)\obj\Debug\net5.0\Task_4(find_factorial).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_4(find_factorial)\obj\Debug\net5.0\Task_4(find_factorial).genruntimeconfig.cache
