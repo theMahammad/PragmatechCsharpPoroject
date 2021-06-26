@@ -1,0 +1,16 @@
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_6(distribute_among_teams)\bin\Debug\net5.0\Task_6(distribute_among_teams).exe
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_6(distribute_among_teams)\bin\Debug\net5.0\Task_6(distribute_among_teams).deps.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_6(distribute_among_teams)\bin\Debug\net5.0\Task_6(distribute_among_teams).runtimeconfig.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_6(distribute_among_teams)\bin\Debug\net5.0\Task_6(distribute_among_teams).runtimeconfig.dev.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_6(distribute_among_teams)\bin\Debug\net5.0\Task_6(distribute_among_teams).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_6(distribute_among_teams)\bin\Debug\net5.0\ref\Task_6(distribute_among_teams).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_6(distribute_among_teams)\bin\Debug\net5.0\Task_6(distribute_among_teams).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_6(distribute_among_teams)\obj\Debug\net5.0\Task_6(distribute_among_teams).csproj.AssemblyReference.cache
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_6(distribute_among_teams)\obj\Debug\net5.0\Task_6(distribute_among_teams).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_6(distribute_among_teams)\obj\Debug\net5.0\Task_6(distribute_among_teams).AssemblyInfoInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_6(distribute_among_teams)\obj\Debug\net5.0\Task_6(distribute_among_teams).AssemblyInfo.cs
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_6(distribute_among_teams)\obj\Debug\net5.0\Task_6(distribute_among_teams).csproj.CoreCompileInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_6(distribute_among_teams)\obj\Debug\net5.0\Task_6(distribute_among_teams).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_6(distribute_among_teams)\obj\Debug\net5.0\ref\Task_6(distribute_among_teams).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_6(distribute_among_teams)\obj\Debug\net5.0\Task_6(distribute_among_teams).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_6(distribute_among_teams)\obj\Debug\net5.0\Task_6(distribute_among_teams).genruntimeconfig.cache
