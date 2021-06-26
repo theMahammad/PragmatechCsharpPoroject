@@ -1,0 +1,15 @@
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_10(print_all_alphabet)\bin\Debug\net5.0\Task_10(print_all_alphabet).exe
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_10(print_all_alphabet)\bin\Debug\net5.0\Task_10(print_all_alphabet).deps.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_10(print_all_alphabet)\bin\Debug\net5.0\Task_10(print_all_alphabet).runtimeconfig.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_10(print_all_alphabet)\bin\Debug\net5.0\Task_10(print_all_alphabet).runtimeconfig.dev.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_10(print_all_alphabet)\bin\Debug\net5.0\Task_10(print_all_alphabet).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_10(print_all_alphabet)\bin\Debug\net5.0\ref\Task_10(print_all_alphabet).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_10(print_all_alphabet)\bin\Debug\net5.0\Task_10(print_all_alphabet).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_10(print_all_alphabet)\obj\Debug\net5.0\Task_10(print_all_alphabet).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_10(print_all_alphabet)\obj\Debug\net5.0\Task_10(print_all_alphabet).AssemblyInfoInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_10(print_all_alphabet)\obj\Debug\net5.0\Task_10(print_all_alphabet).AssemblyInfo.cs
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_10(print_all_alphabet)\obj\Debug\net5.0\Task_10(print_all_alphabet).csproj.CoreCompileInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_10(print_all_alphabet)\obj\Debug\net5.0\Task_10(print_all_alphabet).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_10(print_all_alphabet)\obj\Debug\net5.0\ref\Task_10(print_all_alphabet).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_10(print_all_alphabet)\obj\Debug\net5.0\Task_10(print_all_alphabet).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_10(print_all_alphabet)\obj\Debug\net5.0\Task_10(print_all_alphabet).genruntimeconfig.cache
