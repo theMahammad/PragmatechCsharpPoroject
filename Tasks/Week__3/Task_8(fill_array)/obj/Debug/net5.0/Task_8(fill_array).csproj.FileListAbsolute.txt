@@ -1,0 +1,16 @@
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_8(fill_array)\bin\Debug\net5.0\Task_8(fill_array).exe
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_8(fill_array)\bin\Debug\net5.0\Task_8(fill_array).deps.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_8(fill_array)\bin\Debug\net5.0\Task_8(fill_array).runtimeconfig.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_8(fill_array)\bin\Debug\net5.0\Task_8(fill_array).runtimeconfig.dev.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_8(fill_array)\bin\Debug\net5.0\Task_8(fill_array).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_8(fill_array)\bin\Debug\net5.0\ref\Task_8(fill_array).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_8(fill_array)\bin\Debug\net5.0\Task_8(fill_array).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_8(fill_array)\obj\Debug\net5.0\Task_8(fill_array).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_8(fill_array)\obj\Debug\net5.0\Task_8(fill_array).AssemblyInfoInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_8(fill_array)\obj\Debug\net5.0\Task_8(fill_array).AssemblyInfo.cs
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_8(fill_array)\obj\Debug\net5.0\Task_8(fill_array).csproj.CoreCompileInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_8(fill_array)\obj\Debug\net5.0\Task_8(fill_array).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_8(fill_array)\obj\Debug\net5.0\ref\Task_8(fill_array).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_8(fill_array)\obj\Debug\net5.0\Task_8(fill_array).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_8(fill_array)\obj\Debug\net5.0\Task_8(fill_array).genruntimeconfig.cache
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_8(fill_array)\obj\Debug\net5.0\Task_8(fill_array).csproj.AssemblyReference.cache
