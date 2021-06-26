@@ -1,0 +1,15 @@
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_11(find_primaries)\bin\Debug\net5.0\Task_11(find_primaries).exe
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_11(find_primaries)\bin\Debug\net5.0\Task_11(find_primaries).deps.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_11(find_primaries)\bin\Debug\net5.0\Task_11(find_primaries).runtimeconfig.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_11(find_primaries)\bin\Debug\net5.0\Task_11(find_primaries).runtimeconfig.dev.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_11(find_primaries)\bin\Debug\net5.0\Task_11(find_primaries).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_11(find_primaries)\bin\Debug\net5.0\ref\Task_11(find_primaries).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_11(find_primaries)\bin\Debug\net5.0\Task_11(find_primaries).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_11(find_primaries)\obj\Debug\net5.0\Task_11(find_primaries).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_11(find_primaries)\obj\Debug\net5.0\Task_11(find_primaries).AssemblyInfoInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_11(find_primaries)\obj\Debug\net5.0\Task_11(find_primaries).AssemblyInfo.cs
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_11(find_primaries)\obj\Debug\net5.0\Task_11(find_primaries).csproj.CoreCompileInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_11(find_primaries)\obj\Debug\net5.0\Task_11(find_primaries).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_11(find_primaries)\obj\Debug\net5.0\ref\Task_11(find_primaries).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_11(find_primaries)\obj\Debug\net5.0\Task_11(find_primaries).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_11(find_primaries)\obj\Debug\net5.0\Task_11(find_primaries).genruntimeconfig.cache
