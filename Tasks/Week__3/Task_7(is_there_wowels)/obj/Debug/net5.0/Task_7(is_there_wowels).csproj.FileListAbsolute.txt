@@ -1,0 +1,15 @@
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_7(is_there_wowels)\bin\Debug\net5.0\Task_7(is_there_wowels).exe
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_7(is_there_wowels)\bin\Debug\net5.0\Task_7(is_there_wowels).deps.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_7(is_there_wowels)\bin\Debug\net5.0\Task_7(is_there_wowels).runtimeconfig.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_7(is_there_wowels)\bin\Debug\net5.0\Task_7(is_there_wowels).runtimeconfig.dev.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_7(is_there_wowels)\bin\Debug\net5.0\Task_7(is_there_wowels).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_7(is_there_wowels)\bin\Debug\net5.0\ref\Task_7(is_there_wowels).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_7(is_there_wowels)\bin\Debug\net5.0\Task_7(is_there_wowels).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_7(is_there_wowels)\obj\Debug\net5.0\Task_7(is_there_wowels).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_7(is_there_wowels)\obj\Debug\net5.0\Task_7(is_there_wowels).AssemblyInfoInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_7(is_there_wowels)\obj\Debug\net5.0\Task_7(is_there_wowels).AssemblyInfo.cs
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_7(is_there_wowels)\obj\Debug\net5.0\Task_7(is_there_wowels).csproj.CoreCompileInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_7(is_there_wowels)\obj\Debug\net5.0\Task_7(is_there_wowels).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_7(is_there_wowels)\obj\Debug\net5.0\ref\Task_7(is_there_wowels).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_7(is_there_wowels)\obj\Debug\net5.0\Task_7(is_there_wowels).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_7(is_there_wowels)\obj\Debug\net5.0\Task_7(is_there_wowels).genruntimeconfig.cache
