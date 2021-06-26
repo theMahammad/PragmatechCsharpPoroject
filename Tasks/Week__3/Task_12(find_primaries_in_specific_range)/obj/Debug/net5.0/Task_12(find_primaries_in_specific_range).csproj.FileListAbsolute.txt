@@ -1,0 +1,15 @@
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_12(find_primaries_in_specific_range)\bin\Debug\net5.0\Task_12(find_primaries_in_specific_range).exe
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_12(find_primaries_in_specific_range)\bin\Debug\net5.0\Task_12(find_primaries_in_specific_range).deps.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_12(find_primaries_in_specific_range)\bin\Debug\net5.0\Task_12(find_primaries_in_specific_range).runtimeconfig.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_12(find_primaries_in_specific_range)\bin\Debug\net5.0\Task_12(find_primaries_in_specific_range).runtimeconfig.dev.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_12(find_primaries_in_specific_range)\bin\Debug\net5.0\Task_12(find_primaries_in_specific_range).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_12(find_primaries_in_specific_range)\bin\Debug\net5.0\ref\Task_12(find_primaries_in_specific_range).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_12(find_primaries_in_specific_range)\bin\Debug\net5.0\Task_12(find_primaries_in_specific_range).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_12(find_primaries_in_specific_range)\obj\Debug\net5.0\Task_12(find_primaries_in_specific_range).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_12(find_primaries_in_specific_range)\obj\Debug\net5.0\Task_12(find_primaries_in_specific_range).AssemblyInfoInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_12(find_primaries_in_specific_range)\obj\Debug\net5.0\Task_12(find_primaries_in_specific_range).AssemblyInfo.cs
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_12(find_primaries_in_specific_range)\obj\Debug\net5.0\Task_12(find_primaries_in_specific_range).csproj.CoreCompileInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_12(find_primaries_in_specific_range)\obj\Debug\net5.0\Task_12(find_primaries_in_specific_range).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_12(find_primaries_in_specific_range)\obj\Debug\net5.0\ref\Task_12(find_primaries_in_specific_range).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_12(find_primaries_in_specific_range)\obj\Debug\net5.0\Task_12(find_primaries_in_specific_range).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_12(find_primaries_in_specific_range)\obj\Debug\net5.0\Task_12(find_primaries_in_specific_range).genruntimeconfig.cache
