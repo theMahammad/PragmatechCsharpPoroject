@@ -1,0 +1,15 @@
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_9(schedule_of_multiplication)\bin\Debug\net5.0\Task_9(schedule_of_multiplication).exe
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_9(schedule_of_multiplication)\bin\Debug\net5.0\Task_9(schedule_of_multiplication).deps.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_9(schedule_of_multiplication)\bin\Debug\net5.0\Task_9(schedule_of_multiplication).runtimeconfig.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_9(schedule_of_multiplication)\bin\Debug\net5.0\Task_9(schedule_of_multiplication).runtimeconfig.dev.json
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_9(schedule_of_multiplication)\bin\Debug\net5.0\Task_9(schedule_of_multiplication).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_9(schedule_of_multiplication)\bin\Debug\net5.0\ref\Task_9(schedule_of_multiplication).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_9(schedule_of_multiplication)\bin\Debug\net5.0\Task_9(schedule_of_multiplication).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_9(schedule_of_multiplication)\obj\Debug\net5.0\Task_9(schedule_of_multiplication).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_9(schedule_of_multiplication)\obj\Debug\net5.0\Task_9(schedule_of_multiplication).AssemblyInfoInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_9(schedule_of_multiplication)\obj\Debug\net5.0\Task_9(schedule_of_multiplication).AssemblyInfo.cs
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_9(schedule_of_multiplication)\obj\Debug\net5.0\Task_9(schedule_of_multiplication).csproj.CoreCompileInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_9(schedule_of_multiplication)\obj\Debug\net5.0\Task_9(schedule_of_multiplication).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_9(schedule_of_multiplication)\obj\Debug\net5.0\ref\Task_9(schedule_of_multiplication).dll
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_9(schedule_of_multiplication)\obj\Debug\net5.0\Task_9(schedule_of_multiplication).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__3\Task_9(schedule_of_multiplication)\obj\Debug\net5.0\Task_9(schedule_of_multiplication).genruntimeconfig.cache
