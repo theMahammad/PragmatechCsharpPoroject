@@ -1,0 +1,16 @@
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Sport_Center_Management\bin\Debug\net5.0\Sport_Center_Management.exe
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Sport_Center_Management\bin\Debug\net5.0\Sport_Center_Management.deps.json
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Sport_Center_Management\bin\Debug\net5.0\Sport_Center_Management.runtimeconfig.json
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Sport_Center_Management\bin\Debug\net5.0\Sport_Center_Management.runtimeconfig.dev.json
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Sport_Center_Management\bin\Debug\net5.0\Sport_Center_Management.dll
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Sport_Center_Management\bin\Debug\net5.0\ref\Sport_Center_Management.dll
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Sport_Center_Management\bin\Debug\net5.0\Sport_Center_Management.pdb
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Sport_Center_Management\obj\Debug\net5.0\Sport_Center_Management.csproj.AssemblyReference.cache
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Sport_Center_Management\obj\Debug\net5.0\Sport_Center_Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Sport_Center_Management\obj\Debug\net5.0\Sport_Center_Management.AssemblyInfoInputs.cache
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Sport_Center_Management\obj\Debug\net5.0\Sport_Center_Management.AssemblyInfo.cs
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Sport_Center_Management\obj\Debug\net5.0\Sport_Center_Management.csproj.CoreCompileInputs.cache
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Sport_Center_Management\obj\Debug\net5.0\Sport_Center_Management.dll
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Sport_Center_Management\obj\Debug\net5.0\ref\Sport_Center_Management.dll
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Sport_Center_Management\obj\Debug\net5.0\Sport_Center_Management.pdb
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Sport_Center_Management\obj\Debug\net5.0\Sport_Center_Management.genruntimeconfig.cache
