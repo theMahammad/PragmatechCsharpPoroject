@@ -1,0 +1,15 @@
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Jagged_Arrays\bin\Debug\net5.0\Jagged_Arrays.exe
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Jagged_Arrays\bin\Debug\net5.0\Jagged_Arrays.deps.json
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Jagged_Arrays\bin\Debug\net5.0\Jagged_Arrays.runtimeconfig.json
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Jagged_Arrays\bin\Debug\net5.0\Jagged_Arrays.runtimeconfig.dev.json
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Jagged_Arrays\bin\Debug\net5.0\Jagged_Arrays.dll
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Jagged_Arrays\bin\Debug\net5.0\ref\Jagged_Arrays.dll
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Jagged_Arrays\bin\Debug\net5.0\Jagged_Arrays.pdb
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Jagged_Arrays\obj\Debug\net5.0\Jagged_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Jagged_Arrays\obj\Debug\net5.0\Jagged_Arrays.AssemblyInfoInputs.cache
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Jagged_Arrays\obj\Debug\net5.0\Jagged_Arrays.AssemblyInfo.cs
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Jagged_Arrays\obj\Debug\net5.0\Jagged_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Jagged_Arrays\obj\Debug\net5.0\Jagged_Arrays.dll
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Jagged_Arrays\obj\Debug\net5.0\ref\Jagged_Arrays.dll
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Jagged_Arrays\obj\Debug\net5.0\Jagged_Arrays.pdb
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Jagged_Arrays\obj\Debug\net5.0\Jagged_Arrays.genruntimeconfig.cache

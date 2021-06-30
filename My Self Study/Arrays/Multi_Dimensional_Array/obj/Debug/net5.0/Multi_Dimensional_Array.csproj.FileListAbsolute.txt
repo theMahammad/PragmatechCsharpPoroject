@@ -1,0 +1,16 @@
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Multi_Dimensional_Array\bin\Debug\net5.0\Multi_Dimensional_Array.exe
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Multi_Dimensional_Array\bin\Debug\net5.0\Multi_Dimensional_Array.deps.json
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Multi_Dimensional_Array\bin\Debug\net5.0\Multi_Dimensional_Array.runtimeconfig.json
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Multi_Dimensional_Array\bin\Debug\net5.0\Multi_Dimensional_Array.runtimeconfig.dev.json
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Multi_Dimensional_Array\bin\Debug\net5.0\Multi_Dimensional_Array.dll
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Multi_Dimensional_Array\bin\Debug\net5.0\ref\Multi_Dimensional_Array.dll
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Multi_Dimensional_Array\bin\Debug\net5.0\Multi_Dimensional_Array.pdb
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Multi_Dimensional_Array\obj\Debug\net5.0\Multi_Dimensional_Array.csproj.AssemblyReference.cache
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Multi_Dimensional_Array\obj\Debug\net5.0\Multi_Dimensional_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Multi_Dimensional_Array\obj\Debug\net5.0\Multi_Dimensional_Array.AssemblyInfoInputs.cache
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Multi_Dimensional_Array\obj\Debug\net5.0\Multi_Dimensional_Array.AssemblyInfo.cs
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Multi_Dimensional_Array\obj\Debug\net5.0\Multi_Dimensional_Array.csproj.CoreCompileInputs.cache
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Multi_Dimensional_Array\obj\Debug\net5.0\Multi_Dimensional_Array.dll
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Multi_Dimensional_Array\obj\Debug\net5.0\ref\Multi_Dimensional_Array.dll
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Multi_Dimensional_Array\obj\Debug\net5.0\Multi_Dimensional_Array.pdb
+C:\Users\hssjx\source\repos\My Self Study\Arrays\Multi_Dimensional_Array\obj\Debug\net5.0\Multi_Dimensional_Array.genruntimeconfig.cache

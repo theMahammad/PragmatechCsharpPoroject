@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{9A9A09E9-A5D7-47E7-A985-6390747F7A3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_methods", "Array_methods\Array_methods.csproj", "{A5B8A1EF-89D6-48F5-9B91-636F1825793E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_methods", "Array_methods\Array_methods.csproj", "{A5B8A1EF-89D6-48F5-9B91-636F1825793E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi_Dimensional_Array", "Multi_Dimensional_Array\Multi_Dimensional_Array.csproj", "{6D2C8EAF-232E-46C5-A9FB-E3A286A658B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jagged_Arrays", "Jagged_Arrays\Jagged_Arrays.csproj", "{FA9E8EAB-B3D0-48AF-99E6-4B56DF62F47F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{A5B8A1EF-89D6-48F5-9B91-636F1825793E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5B8A1EF-89D6-48F5-9B91-636F1825793E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5B8A1EF-89D6-48F5-9B91-636F1825793E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D2C8EAF-232E-46C5-A9FB-E3A286A658B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D2C8EAF-232E-46C5-A9FB-E3A286A658B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D2C8EAF-232E-46C5-A9FB-E3A286A658B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D2C8EAF-232E-46C5-A9FB-E3A286A658B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA9E8EAB-B3D0-48AF-99E6-4B56DF62F47F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA9E8EAB-B3D0-48AF-99E6-4B56DF62F47F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA9E8EAB-B3D0-48AF-99E6-4B56DF62F47F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA9E8EAB-B3D0-48AF-99E6-4B56DF62F47F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
