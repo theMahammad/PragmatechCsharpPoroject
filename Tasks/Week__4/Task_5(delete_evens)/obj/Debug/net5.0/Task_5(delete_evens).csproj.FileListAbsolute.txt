@@ -1,0 +1,16 @@
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_5(delete_evens)\bin\Debug\net5.0\Task_5(delete_evens).exe
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_5(delete_evens)\bin\Debug\net5.0\Task_5(delete_evens).deps.json
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_5(delete_evens)\bin\Debug\net5.0\Task_5(delete_evens).runtimeconfig.json
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_5(delete_evens)\bin\Debug\net5.0\Task_5(delete_evens).runtimeconfig.dev.json
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_5(delete_evens)\bin\Debug\net5.0\Task_5(delete_evens).dll
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_5(delete_evens)\bin\Debug\net5.0\ref\Task_5(delete_evens).dll
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_5(delete_evens)\bin\Debug\net5.0\Task_5(delete_evens).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_5(delete_evens)\obj\Debug\net5.0\Task_5(delete_evens).csproj.AssemblyReference.cache
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_5(delete_evens)\obj\Debug\net5.0\Task_5(delete_evens).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_5(delete_evens)\obj\Debug\net5.0\Task_5(delete_evens).AssemblyInfoInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_5(delete_evens)\obj\Debug\net5.0\Task_5(delete_evens).AssemblyInfo.cs
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_5(delete_evens)\obj\Debug\net5.0\Task_5(delete_evens).csproj.CoreCompileInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_5(delete_evens)\obj\Debug\net5.0\Task_5(delete_evens).dll
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_5(delete_evens)\obj\Debug\net5.0\ref\Task_5(delete_evens).dll
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_5(delete_evens)\obj\Debug\net5.0\Task_5(delete_evens).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_5(delete_evens)\obj\Debug\net5.0\Task_5(delete_evens).genruntimeconfig.cache
