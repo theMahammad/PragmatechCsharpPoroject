@@ -1,0 +1,16 @@
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_3(check_two_array_for_duplicates)\bin\Debug\net5.0\Task_3(check_two_array_for_duplicates).exe
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_3(check_two_array_for_duplicates)\bin\Debug\net5.0\Task_3(check_two_array_for_duplicates).deps.json
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_3(check_two_array_for_duplicates)\bin\Debug\net5.0\Task_3(check_two_array_for_duplicates).runtimeconfig.json
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_3(check_two_array_for_duplicates)\bin\Debug\net5.0\Task_3(check_two_array_for_duplicates).runtimeconfig.dev.json
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_3(check_two_array_for_duplicates)\bin\Debug\net5.0\Task_3(check_two_array_for_duplicates).dll
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_3(check_two_array_for_duplicates)\bin\Debug\net5.0\ref\Task_3(check_two_array_for_duplicates).dll
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_3(check_two_array_for_duplicates)\bin\Debug\net5.0\Task_3(check_two_array_for_duplicates).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_3(check_two_array_for_duplicates)\obj\Debug\net5.0\Task_3(check_two_array_for_duplicates).csproj.AssemblyReference.cache
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_3(check_two_array_for_duplicates)\obj\Debug\net5.0\Task_3(check_two_array_for_duplicates).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_3(check_two_array_for_duplicates)\obj\Debug\net5.0\Task_3(check_two_array_for_duplicates).AssemblyInfoInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_3(check_two_array_for_duplicates)\obj\Debug\net5.0\Task_3(check_two_array_for_duplicates).AssemblyInfo.cs
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_3(check_two_array_for_duplicates)\obj\Debug\net5.0\Task_3(check_two_array_for_duplicates).csproj.CoreCompileInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_3(check_two_array_for_duplicates)\obj\Debug\net5.0\Task_3(check_two_array_for_duplicates).dll
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_3(check_two_array_for_duplicates)\obj\Debug\net5.0\ref\Task_3(check_two_array_for_duplicates).dll
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_3(check_two_array_for_duplicates)\obj\Debug\net5.0\Task_3(check_two_array_for_duplicates).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_3(check_two_array_for_duplicates)\obj\Debug\net5.0\Task_3(check_two_array_for_duplicates).genruntimeconfig.cache
