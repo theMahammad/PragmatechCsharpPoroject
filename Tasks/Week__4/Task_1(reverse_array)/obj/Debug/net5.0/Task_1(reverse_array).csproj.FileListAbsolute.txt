@@ -1,0 +1,16 @@
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_1(reverse_array)\bin\Debug\net5.0\Task_1(reverse_array).exe
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_1(reverse_array)\bin\Debug\net5.0\Task_1(reverse_array).deps.json
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_1(reverse_array)\bin\Debug\net5.0\Task_1(reverse_array).runtimeconfig.json
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_1(reverse_array)\bin\Debug\net5.0\Task_1(reverse_array).runtimeconfig.dev.json
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_1(reverse_array)\bin\Debug\net5.0\Task_1(reverse_array).dll
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_1(reverse_array)\bin\Debug\net5.0\ref\Task_1(reverse_array).dll
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_1(reverse_array)\bin\Debug\net5.0\Task_1(reverse_array).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_1(reverse_array)\obj\Debug\net5.0\Task_1(reverse_array).csproj.AssemblyReference.cache
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_1(reverse_array)\obj\Debug\net5.0\Task_1(reverse_array).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_1(reverse_array)\obj\Debug\net5.0\Task_1(reverse_array).AssemblyInfoInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_1(reverse_array)\obj\Debug\net5.0\Task_1(reverse_array).AssemblyInfo.cs
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_1(reverse_array)\obj\Debug\net5.0\Task_1(reverse_array).csproj.CoreCompileInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_1(reverse_array)\obj\Debug\net5.0\Task_1(reverse_array).dll
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_1(reverse_array)\obj\Debug\net5.0\ref\Task_1(reverse_array).dll
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_1(reverse_array)\obj\Debug\net5.0\Task_1(reverse_array).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_1(reverse_array)\obj\Debug\net5.0\Task_1(reverse_array).genruntimeconfig.cache

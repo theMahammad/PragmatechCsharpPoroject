@@ -1,0 +1,16 @@
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_2(sum_array)\bin\Debug\net5.0\Task_2(sum_array).exe
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_2(sum_array)\bin\Debug\net5.0\Task_2(sum_array).deps.json
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_2(sum_array)\bin\Debug\net5.0\Task_2(sum_array).runtimeconfig.json
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_2(sum_array)\bin\Debug\net5.0\Task_2(sum_array).runtimeconfig.dev.json
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_2(sum_array)\bin\Debug\net5.0\Task_2(sum_array).dll
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_2(sum_array)\bin\Debug\net5.0\ref\Task_2(sum_array).dll
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_2(sum_array)\bin\Debug\net5.0\Task_2(sum_array).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_2(sum_array)\obj\Debug\net5.0\Task_2(sum_array).csproj.AssemblyReference.cache
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_2(sum_array)\obj\Debug\net5.0\Task_2(sum_array).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_2(sum_array)\obj\Debug\net5.0\Task_2(sum_array).AssemblyInfoInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_2(sum_array)\obj\Debug\net5.0\Task_2(sum_array).AssemblyInfo.cs
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_2(sum_array)\obj\Debug\net5.0\Task_2(sum_array).csproj.CoreCompileInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_2(sum_array)\obj\Debug\net5.0\Task_2(sum_array).dll
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_2(sum_array)\obj\Debug\net5.0\ref\Task_2(sum_array).dll
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_2(sum_array)\obj\Debug\net5.0\Task_2(sum_array).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_2(sum_array)\obj\Debug\net5.0\Task_2(sum_array).genruntimeconfig.cache
