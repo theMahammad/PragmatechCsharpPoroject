@@ -1,0 +1,16 @@
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_6(find_minimum)\bin\Debug\net5.0\Task_6(find_minimum).exe
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_6(find_minimum)\bin\Debug\net5.0\Task_6(find_minimum).deps.json
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_6(find_minimum)\bin\Debug\net5.0\Task_6(find_minimum).runtimeconfig.json
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_6(find_minimum)\bin\Debug\net5.0\Task_6(find_minimum).runtimeconfig.dev.json
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_6(find_minimum)\bin\Debug\net5.0\Task_6(find_minimum).dll
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_6(find_minimum)\bin\Debug\net5.0\ref\Task_6(find_minimum).dll
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_6(find_minimum)\bin\Debug\net5.0\Task_6(find_minimum).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_6(find_minimum)\obj\Debug\net5.0\Task_6(find_minimum).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_6(find_minimum)\obj\Debug\net5.0\Task_6(find_minimum).AssemblyInfoInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_6(find_minimum)\obj\Debug\net5.0\Task_6(find_minimum).AssemblyInfo.cs
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_6(find_minimum)\obj\Debug\net5.0\Task_6(find_minimum).csproj.CoreCompileInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_6(find_minimum)\obj\Debug\net5.0\Task_6(find_minimum).dll
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_6(find_minimum)\obj\Debug\net5.0\ref\Task_6(find_minimum).dll
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_6(find_minimum)\obj\Debug\net5.0\Task_6(find_minimum).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_6(find_minimum)\obj\Debug\net5.0\Task_6(find_minimum).genruntimeconfig.cache
+C:\Users\hssjx\source\repos\Tasks\Week__4\Task_6(find_minimum)\obj\Debug\net5.0\Task_6(find_minimum).csproj.AssemblyReference.cache
