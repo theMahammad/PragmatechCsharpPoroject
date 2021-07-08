@@ -1,0 +1,10 @@
+C:\Users\hssjx\source\repos\Tasks\Week__5\Task_1(Calculator)\bin\Debug\Task_1(Calculator).exe.config
+C:\Users\hssjx\source\repos\Tasks\Week__5\Task_1(Calculator)\bin\Debug\Task_1(Calculator).exe
+C:\Users\hssjx\source\repos\Tasks\Week__5\Task_1(Calculator)\bin\Debug\Task_1(Calculator).pdb
+C:\Users\hssjx\source\repos\Tasks\Week__5\Task_1(Calculator)\obj\Debug\Task_1(Calculator).csproj.AssemblyReference.cache
+C:\Users\hssjx\source\repos\Tasks\Week__5\Task_1(Calculator)\obj\Debug\Task_1_Calculator_.Form1.resources
+C:\Users\hssjx\source\repos\Tasks\Week__5\Task_1(Calculator)\obj\Debug\Task_1_Calculator_.Properties.Resources.resources
+C:\Users\hssjx\source\repos\Tasks\Week__5\Task_1(Calculator)\obj\Debug\Task_1(Calculator).csproj.GenerateResource.cache
+C:\Users\hssjx\source\repos\Tasks\Week__5\Task_1(Calculator)\obj\Debug\Task_1(Calculator).csproj.CoreCompileInputs.cache
+C:\Users\hssjx\source\repos\Tasks\Week__5\Task_1(Calculator)\obj\Debug\Task_1(Calculator).exe
+C:\Users\hssjx\source\repos\Tasks\Week__5\Task_1(Calculator)\obj\Debug\Task_1(Calculator).pdb
