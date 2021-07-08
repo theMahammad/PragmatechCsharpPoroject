@@ -1,0 +1,16 @@
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Compare_two_array\obj\Debug\net5.0\Compare_two_array.csproj.AssemblyReference.cache
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Compare_two_array\obj\Debug\net5.0\Compare_two_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Compare_two_array\obj\Debug\net5.0\Compare_two_array.AssemblyInfoInputs.cache
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Compare_two_array\obj\Debug\net5.0\Compare_two_array.AssemblyInfo.cs
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Compare_two_array\obj\Debug\net5.0\Compare_two_array.csproj.CoreCompileInputs.cache
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Compare_two_array\bin\Debug\net5.0\Compare_two_array.exe
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Compare_two_array\bin\Debug\net5.0\Compare_two_array.deps.json
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Compare_two_array\bin\Debug\net5.0\Compare_two_array.runtimeconfig.json
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Compare_two_array\bin\Debug\net5.0\Compare_two_array.runtimeconfig.dev.json
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Compare_two_array\bin\Debug\net5.0\Compare_two_array.dll
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Compare_two_array\bin\Debug\net5.0\ref\Compare_two_array.dll
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Compare_two_array\bin\Debug\net5.0\Compare_two_array.pdb
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Compare_two_array\obj\Debug\net5.0\Compare_two_array.dll
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Compare_two_array\obj\Debug\net5.0\ref\Compare_two_array.dll
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Compare_two_array\obj\Debug\net5.0\Compare_two_array.pdb
+C:\Users\hssjx\source\repos\Tasks_During_Lesson\Compare_two_array\obj\Debug\net5.0\Compare_two_array.genruntimeconfig.cache
