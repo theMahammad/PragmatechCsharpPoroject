@@ -48,6 +48,10 @@ namespace Task_1_ShoppingManagement_
             this.order_date = new System.Windows.Forms.ColumnHeader();
             this.price = new System.Windows.Forms.ColumnHeader();
             this.weight = new System.Windows.Forms.ColumnHeader();
+            this.tb_search = new System.Windows.Forms.TextBox();
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
+            this.btn_search = new System.Windows.Forms.Button();
+            this.btn_remove_selected = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.nup_weight)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.nup_price)).BeginInit();
             this.SuspendLayout();
@@ -177,6 +181,7 @@ namespace Task_1_ShoppingManagement_
             this.order_date,
             this.price,
             this.weight});
+            this.lv_orders.FullRowSelect = true;
             this.lv_orders.HideSelection = false;
             this.lv_orders.Location = new System.Drawing.Point(109, 185);
             this.lv_orders.Name = "lv_orders";
@@ -184,6 +189,7 @@ namespace Task_1_ShoppingManagement_
             this.lv_orders.TabIndex = 12;
             this.lv_orders.UseCompatibleStateImageBehavior = false;
             this.lv_orders.View = System.Windows.Forms.View.Details;
+            this.lv_orders.ItemActivate += new System.EventHandler(this.lv_orders_ItemActivate);
             // 
             // category
             // 
@@ -209,11 +215,43 @@ namespace Task_1_ShoppingManagement_
             // 
             this.weight.Text = "Çəki";
             // 
+            // tb_search
+            // 
+            this.tb_search.Location = new System.Drawing.Point(228, 156);
+            this.tb_search.Name = "tb_search";
+            this.tb_search.Size = new System.Drawing.Size(224, 23);
+            this.tb_search.TabIndex = 13;
+            this.tb_search.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.tb_search_KeyPress);
+            this.tb_search.KeyUp += new System.Windows.Forms.KeyEventHandler(this.tb_search_KeyUp);
+            // 
+            // btn_search
+            // 
+            this.btn_search.Location = new System.Drawing.Point(481, 156);
+            this.btn_search.Name = "btn_search";
+            this.btn_search.Size = new System.Drawing.Size(75, 23);
+            this.btn_search.TabIndex = 14;
+            this.btn_search.Text = "Axtar";
+            this.btn_search.UseVisualStyleBackColor = true;
+            this.btn_search.Click += new System.EventHandler(this.btn_search_Click);
+            // 
+            // btn_remove_selected
+            // 
+            this.btn_remove_selected.Location = new System.Drawing.Point(661, 208);
+            this.btn_remove_selected.Name = "btn_remove_selected";
+            this.btn_remove_selected.Size = new System.Drawing.Size(75, 23);
+            this.btn_remove_selected.TabIndex = 15;
+            this.btn_remove_selected.Text = "Seçilmiş datanı sil";
+            this.btn_remove_selected.UseVisualStyleBackColor = true;
+            this.btn_remove_selected.Click += new System.EventHandler(this.btn_remove_selected_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btn_remove_selected);
+            this.Controls.Add(this.btn_search);
+            this.Controls.Add(this.tb_search);
             this.Controls.Add(this.lv_orders);
             this.Controls.Add(this.dateTimePicker1);
             this.Controls.Add(this.btn_give_order);
@@ -259,6 +297,10 @@ namespace Task_1_ShoppingManagement_
         private System.Windows.Forms.ColumnHeader order_date;
         private System.Windows.Forms.ColumnHeader price;
         private System.Windows.Forms.ColumnHeader weight;
+        private System.Windows.Forms.TextBox tb_search;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
+        private System.Windows.Forms.Button btn_search;
+        private System.Windows.Forms.Button btn_remove_selected;
     }
 }
 

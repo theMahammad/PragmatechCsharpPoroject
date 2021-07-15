@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Collections;
 
 namespace Task_1_ShoppingManagement_
 {
@@ -20,6 +21,7 @@ namespace Task_1_ShoppingManagement_
         string[] laptops = { "HP Pavilion 150", "Dell Inspiron", "Lenovo Thinkpad" };
         string[] headphones = { "Airpods", "Airpod Pro", "Redmi Airdots", "I11" };
         string[] smartWatches = { "Mi Band 4", "Mi Band 5", "Smart Watch E50" };
+        ArrayList copy = new ArrayList();
         public void fillProductsByCategory()
         {
             string category_name = cb_category.Text;
@@ -85,6 +87,69 @@ namespace Task_1_ShoppingManagement_
             lv_orders.Items.Add(listViewItem);
             MessageBox.Show("Əlavə edildi");
 
+            
+        }
+
+        private void btn_search_Click(object sender, EventArgs e)
+        {
+            string searchedText = tb_search.Text;
+            ArrayList temp_list = new ArrayList();
+            int count = 0;
+            
+            
+            foreach(ListViewItem item in lv_orders.Items)
+            {
+                foreach(ListViewItem.ListViewSubItem subitem in item.SubItems)
+                {
+
+                    if (subitem.Text == searchedText)
+                    {
+                        lv_orders.Items.Remove(item);
+                        temp_list.Add(item);
+                        count++;
+                        MessageBox.Show("Tapıldı");
+                    }
+                    
+                    
+                }
+            }
+
+
+            if (count > 0)
+            {
+                lv_orders.Items.Clear();
+               
+            }
+           foreach(ListViewItem item in temp_list)
+            {
+                lv_orders.Items.Add(item);
+            }
+          
+            
+            
+        }
+
+        private void tb_search_KeyUp(object sender, KeyEventArgs e)
+        {
+            
+        }
+
+        private void tb_search_KeyPress(object sender, KeyPressEventArgs e)
+        {
+
+        }
+
+        private void lv_orders_ItemActivate(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_remove_selected_Click(object sender, EventArgs e)
+        {
+            foreach(ListViewItem selected_item in lv_orders.SelectedItems)
+            {
+                lv_orders.Items.Remove(selected_item);
+            }
             
         }
     }
