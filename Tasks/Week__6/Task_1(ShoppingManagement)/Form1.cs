@@ -75,7 +75,17 @@ namespace Task_1_ShoppingManagement_
         private void btn_give_order_Click(object sender, EventArgs e)
         {
             Order order = new Order();
-
+            if (copy.Count>0)
+            {
+                foreach (ListViewItem item in copy)
+                {
+                    if(!(lv_orders.Items.Contains(item))){
+                        lv_orders.Items.Add(item);
+                    }
+                    
+                }
+            }
+          
             if (cb_category.SelectedIndex != -1 && cb_delivery_type.SelectedIndex != -1 && cb_products.SelectedIndex != -1 && nup_price.Value != 0)
             {
                 order.category = cb_category.Text;
@@ -93,14 +103,16 @@ namespace Task_1_ShoppingManagement_
                 listViewItem.SubItems.Add(order.weight.ToString());
 
 
-
+               
                 lv_orders.Items.Add(listViewItem);
+                CopyToOther(copy);
                 MessageBox.Show("Əlavə edildi");
             }
             else
             {
                 MessageBox.Show("Datalar tam doldurulmayıb");
             }
+            
               
 
             
