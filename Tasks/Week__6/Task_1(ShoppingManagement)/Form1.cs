@@ -47,6 +47,13 @@ namespace Task_1_ShoppingManagement_
             }
             cb_products.SelectedIndex = 0;
         }
+        public void CopyToOther(ArrayList copyList)
+        {
+             foreach(ListViewItem item in lv_orders.Items)
+            {
+                copy.Add(item);
+            }
+        }
 
        
         private void Form1_Load(object sender, EventArgs e)
@@ -68,24 +75,33 @@ namespace Task_1_ShoppingManagement_
         private void btn_give_order_Click(object sender, EventArgs e)
         {
             Order order = new Order();
-            order.category = cb_category.Text;
-            order.date = dateTimePicker1.Value;
-            order.delivery_type = cb_delivery_type.Text;
-            order.price = nup_price.Value;
-            order.product = cb_products.Text;
-            order.weight = (double)nup_weight.Value;
-            ListViewItem listViewItem = new ListViewItem();
-            listViewItem.Text = order.category;
-            listViewItem.SubItems.Add(order.product);
-            listViewItem.SubItems.Add(order.delivery_type);
-            listViewItem.SubItems.Add(order.date.ToString());
-            listViewItem.SubItems.Add(order.price.ToString());
-            listViewItem.SubItems.Add(order.weight.ToString());
-           
-           
-            
-            lv_orders.Items.Add(listViewItem);
-            MessageBox.Show("Əlavə edildi");
+
+            if (cb_category.SelectedIndex != -1 && cb_delivery_type.SelectedIndex != -1 && cb_products.SelectedIndex != -1 && nup_price.Value != 0)
+            {
+                order.category = cb_category.Text;
+                order.date = dateTimePicker1.Value;
+                order.delivery_type = cb_delivery_type.Text;
+                order.price = nup_price.Value;
+                order.product = cb_products.Text;
+                order.weight = (double)nup_weight.Value;
+                ListViewItem listViewItem = new ListViewItem();
+                listViewItem.Text = order.category;
+                listViewItem.SubItems.Add(order.product);
+                listViewItem.SubItems.Add(order.delivery_type);
+                listViewItem.SubItems.Add(order.date.ToString());
+                listViewItem.SubItems.Add(order.price.ToString());
+                listViewItem.SubItems.Add(order.weight.ToString());
+
+
+
+                lv_orders.Items.Add(listViewItem);
+                MessageBox.Show("Əlavə edildi");
+            }
+            else
+            {
+                MessageBox.Show("Datalar tam doldurulmayıb");
+            }
+              
 
             
         }
